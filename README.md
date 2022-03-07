@@ -11,3 +11,8 @@ These are three main components of Jeu2D game.
 
   ### 3. Background
 <img src="https://user-images.githubusercontent.com/74800798/157037740-a6919bb8-bf10-4aaa-8198-bfa64b60d345.jpg" width="350" height="500">
+
+## Game screen
+ The game window is shown in the figure
+ ![Project image](https://user-images.githubusercontent.com/74800798/157040312-739dd017-b61c-4a1b-9aad-f974519f5d4e.jpg)
+
